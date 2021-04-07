@@ -1,0 +1,11 @@
+opencv-python ==4.2.0.32
+numpy
+scipy
+tensorflow==2.0
+scikit-learn
+keras
+pandas
+sip
+pyqt5
+ipython
+fbs

@@ -1,0 +1,1 @@
+pyinstaller --noupx --onedir -p D:\Gotcha2.0 --hidden-import=tensorflow --hidden-import=tensorflow,lite.python.lite --hidden-import=tensorflow.python.keras.engine.base_layer_v1 --hidden-import=tensorflow.python.ops.numpy_ops  --hidden-import=tensorflow.python.ops.while_v2  --additional-hooks-dir=D:\Gotcha2.0\hooks D:\Gotcha2.0\Gotcha.py -w

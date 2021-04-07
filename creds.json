@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ivory-granite-296507",
+  "private_key_id": "92d51dc24fbe47e0bc6192394fa0de62b7403177",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD0b8njKYDe90MJ\nq18jJN/1gQP28tqge2+MPdef+00rYCsma6/LnSSLxqEDjkVRC8RD1N/3lRRDgN3f\n64P6KO0SEmdennr4V38WSm6yHrLKO9BYxbPIcvxLnW4keWYhtzS8WnSLhrtriOmA\ndOwpi4bxSGAInO1+oh2l7ALsYMnJ53DgZA0BYUBCpcjXjarDXcXznHWaZBCIpNEv\nk1GpWi5wT50hKlsPY/EMWyaSLhSD2YFK5YJDdqGGZjhM7E2WuS3KiuOD1DypbYOv\nVTggKkaGtrjkW4U+HFHxe5CmKaVD1xdK/4MCMzJTwI1KV1woy7+R34jP1ZEl9MBQ\nSzzKuLTPAgMBAAECggEACtHr+N88ciI12Ha6hl66fy6P012aqeHs5SNTqSRBnTrr\njg7UQEobdQh81iB1FwpTTMFejKIPvJE2wRO2ytsG63bfFoQjY1zUJlNzJPVQ6rzN\nEzDlLWlRm7NDTeAF0lY+wluqrwZuw2rTEzmZvpkLhyCyB4+Sv7lDYLXax0XdiM9c\nvESNehT3WM1MHz1/WLQwDw6UVFF2YFnnu+jud5cWGj3ls6zmy9E0fjrHMeRQu721\na/hZmfsLoHCWnZI7PGLowxjE+6r06LIBWtmPDKkhXuqsNEF+hiMWdc0dpxbQPrMS\nTa/rKwAMYsEjXwrzZdsqCsChLYBmCd+UZe26Na7tMQKBgQD+/WnBoRnr2PvFwfmC\nQaa2G6Ln9uaGrQ0BHR+bx57s/bSyO4OUOnllKRQUMzXE0FgmWLNm1wt/steER6yi\n0QbyYXI2yRlJ9X8DGiWYSd0rKbLEQuPssff6KtuDkrUh03yrj+9AJLmvtG/xaZDm\nfqqze3qG8pybzEIWyGR+cz/oKQKBgQD1Z6xlcNRldu6sd9RZYHzXQbmKjx/CtEyI\nKxobq8PBHB/ojVpQhPc59SriTmxMhPYAWKs3uJr+7TfGzX24e+kE9mstWkiH9ONK\nabBLixmoMusl4MQJLl8PxwP+O5DPjKbt6f2Q4ZpkSIX8faWugvycYEjzjouCKoUx\nHoZ0ntm0NwKBgQDz76qEuoH5xpLWFUOFARljjfzCvMi8fkC6mAntFYNMZUnAWH8A\nBxCrXij/Sh5eMpKh3KmD8KXnfEgBHDBjcmSa6+4/yxKOVnUzmofssH0NFc8XQoaZ\noYgBo45syKTPv2q9Fe1kB748APo2kS810merXK1S/DYmNbnj4cGB1u+EQQKBgBQ3\neT1WITlGpfzxVj4Ss9Yr5PQkPFKW9eMV4e27pcHH5l0LIBCYE6Hjr6e7HDLllTqM\nE3bgr2wm8Lxg+2VyV8z/2+59jJIeu4bK1Co1CGUR5MtXC+9RsaUkGREdqR1gEfRx\nnWENJOH0E42scDTDN7pOOFRQPu/3PsfAIwWCfJ7bAoGAXUbUhTFcUiM8voN5vAA+\nqeCI4bOpV6yENTrYhxAJtMV4lMsXVaV3mhIKjuBORi5uDpcahMpE0nn2wMFg5DS+\n8Mv//daGBj3eJv/HnqBpy1HSGxJ9cBtkGmv12qYUx/qrJrJxUoAjffufsukzALfC\ndJH6qKmTu7DbNekf5fogmYw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ruzanna@ivory-granite-296507.iam.gserviceaccount.com",
+  "client_id": "102254597932945657544",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ruzanna%40ivory-granite-296507.iam.gserviceaccount.com"
+}
